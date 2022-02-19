@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thetsGit
+- 👋 Hi, I’m @Thet_han
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on real-world projects
