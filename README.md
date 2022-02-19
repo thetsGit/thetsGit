@@ -6,6 +6,7 @@
       @ facebook https://www.facebook.com/thethan13/
       @ linkedin https://www.linkedin.com/in/thet-lin-han-0a5693227/
       @ twitter https://twitter.com/Thet_han13
+- <Interest>UI templates and Design enthusiast</Interest>
 
 <!---
 thetsGit/thetsGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
