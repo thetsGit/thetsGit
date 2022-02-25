@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thet_han
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding, reading, swimming, and of course, loving
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on real-world projects
 - 📫 Reach me on 
