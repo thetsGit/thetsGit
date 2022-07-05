@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on real-world projects
 - 📫 Reach me on 
-      @ facebook https://www.facebook.com/thethan13/
-      @ linkedin https://www.linkedin.com/in/thet-lin-han-0a5693227/
+      @ facebook https://www.facebook.com/thethan.dev/
+      @ linkedin https://www.linkedin.com/in/thethan-dev/
       @ twitter https://twitter.com/Thet_han13
 - <Interest>UI templates and Design enthusiast</Interest>
 
