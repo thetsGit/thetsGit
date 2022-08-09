@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thet_han
 - 👀 I’m interested in coding, reading, swimming, and of course, you
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning How To Code Better
 - 💞️ I’m looking to collaborate on real-world projects
 - 📫 Reach me on 
       @ facebook https://www.facebook.com/thethan.dev/
