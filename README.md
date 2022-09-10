@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning How To Code Better
 - 💞️ I’m looking to collaborate on real-world projects
 - 📫 Reach me on 
-      @ facebook https://www.facebook.com/thethan.dev/
       @ linkedin https://www.linkedin.com/in/thethan-dev/
       @ twitter https://twitter.com/Thet_han13
 - <Interest>UI templates and Design enthusiast</Interest>
